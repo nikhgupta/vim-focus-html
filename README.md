@@ -5,6 +5,11 @@ HTML documents a breeze, by dimming all tags, and only focussing on the
 content inside HTML. Please, see my [VIMRC][vimrc] for an example
 implementation.
 
+## Screenshots
+
+![dark](https://raw.githubusercontent.com/nikhgupta/vim-focus-html/master/vim-focus-dark.png)
+![light](https://raw.githubusercontent.com/nikhgupta/vim-focus-html/master/vim-focus-light.png)
+
 ## Installation
 
 To use the dark theme ensure `set background=dark` is present in your
